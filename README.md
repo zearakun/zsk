@@ -13,7 +13,7 @@
     <img src=".github/assets/jishaku_logo.svg" height="36">
 </sub>
 &nbsp;
-jishaku
+zsk
 </h1>
 <p align="center">
 <sup>
